@@ -10,7 +10,8 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 }
 
-button {cursor:pointer}
+button {cursor:pointer;
+}
 
 footer {
   color: #DBEDF3;
